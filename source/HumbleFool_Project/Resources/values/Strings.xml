@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">HumbleFool</string>
+  <style name="AppTheme" parent="Theme.AppCompat">
+    <item name="windowNoTitle">true</item>
+    <item name="windowActionBar">false</item>
+  </style>
+
+  <string-array name="drop_down_array">
+    <item>Select Available Courses</item>
+    <item>C#</item>
+    <item>Python</item>
+    <item>Unreal Engine 4</item>
+    <item>Machine Learning</item>
+    <item>PHP 7</item>
+    <item>Windows 10 UWP</item>
+  </string-array>
+</resources>
