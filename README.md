@@ -1,0 +1,2 @@
+# KnowFool
+We developed an innovative platform where the users can share their programming expertise with the other learners easily via the means of professional blogs and videos. Personally, we think that there is a lot of great study material related to programming, computer and internet in general. However, this material is scattered on various platforms, making it harder for people to get the best content at one place.
